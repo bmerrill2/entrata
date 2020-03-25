@@ -1,9 +1,9 @@
  /* Style the header */
 
         .header {
-            background-color: #E1172F;
+            background-color: white;
             padding: 30px 40px;
-            color: white;
+            color: #E1172f;
             text-align: center;
         }
 
@@ -13,4 +13,11 @@
             content: "";
             display: table;
             clear: both;
+        }
+
+.gameHeader {
+            background-color: #E1172F;
+            padding: 30px 40px;
+            color: white;
+            text-align: center;
         }
